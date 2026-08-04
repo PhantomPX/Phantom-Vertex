@@ -8,6 +8,7 @@ Journey of making my own dev board for everything!
 
 
 ### Footprint
+<table>
   <tr>
     <td>
       <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/d3f12745-1617-4e70-be6a-a49b72ef52e2" />
@@ -29,6 +30,7 @@ Journey of making my own dev board for everything!
 
 
 ### 3D View
+<table>
   <tr>
     <td>
       <img width="400" height="400" alt="vertex mk4 Top" src="https://github.com/user-attachments/assets/5873c6e7-b072-4218-b0f1-8f582e1aa2d5" />
