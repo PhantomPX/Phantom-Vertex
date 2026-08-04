@@ -5,7 +5,27 @@ Journey of making my own dev board for everything!
 ### Schematic
 <img width="1319" height="777" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/6c69ddb6-c648-432d-b0fb-0f07149dd632" />
 
+
+
 ### Footprint
+  <tr>
+    <td>
+      <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/d3f12745-1617-4e70-be6a-a49b72ef52e2" />
+    </td>
+    <td>
+      <img width="219" height="365" alt="image" src="https://github.com/user-attachments/assets/96e6d376-3b99-4959-9f53-9a34d89f26f9" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img width="344" height="598" alt="Vertex Mk4 4 Footprint F" src="https://github.com/user-attachments/assets/5fde90e6-7a53-4c5c-95e4-448530d50bdd" />
+    </td>
+    <td>
+      <img width="308" height="549" alt="Vertex Mk4 4 Footprint B" src="https://github.com/user-attachments/assets/fb63591e-f106-4dd7-a4cf-eb7f5d13af46" />
+    </td>
+  </tr>
+</table>
+
 
 
 ### 3D View
