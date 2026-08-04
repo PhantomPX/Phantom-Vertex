@@ -22,7 +22,7 @@ Journey of making my own dev board for everything!
       <img width="400" height="400" alt="vertex mk4 Side1" src="https://github.com/user-attachments/assets/5253ad4d-7326-42dc-ba68-c57039d120d9" />
     </td>
     <td>
-      <img width="400" height="400" alt="vertex mk4 Side2" src="https://github.com/user-attachments/assets/2cc7762d-c7fb-4b68-9a1e-c95fe0628230" />
+      <img width="400" height="400" alt="vertex mk4 Side2" src="https://github.com/user-attachments/assets/fcce39fc-ecf7-49ae-ae66-a63d800b5d3e" />
     </td>
   </tr>
 </table>
