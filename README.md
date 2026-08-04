@@ -18,10 +18,10 @@ Journey of making my own dev board for everything!
   </tr>
   <tr>
     <td>
-      <img width="344" height="598" alt="Vertex Mk4 4 Footprint F" src="https://github.com/user-attachments/assets/5fde90e6-7a53-4c5c-95e4-448530d50bdd" />
+      <img width="219" height="365" alt="Vertex Mk4 4 Footprint F" src="https://github.com/user-attachments/assets/5fde90e6-7a53-4c5c-95e4-448530d50bdd" />
     </td>
     <td>
-      <img width="308" height="549" alt="Vertex Mk4 4 Footprint B" src="https://github.com/user-attachments/assets/fb63591e-f106-4dd7-a4cf-eb7f5d13af46" />
+      <img width="219" height="365" alt="Vertex Mk4 4 Footprint B" src="https://github.com/user-attachments/assets/fb63591e-f106-4dd7-a4cf-eb7f5d13af46" />
     </td>
   </tr>
 </table>
