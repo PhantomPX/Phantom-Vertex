@@ -3,7 +3,9 @@ Journey of making my own dev board for everything!
 
 
 I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. 
-The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple. My first complete project will be a super silent mechanical keyboard [PhantomBoard](https://github.com/thephantom8768/PhantomBoard) powered by Vertex Mk4.4
+The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple. 
+
+My first complete project will be a super silent mechanical keyboard [PhantomBoard](https://github.com/thephantom8768/PhantomBoard) powered by Vertex Mk4.4
 
 I plan on making:
 - 1m³ 3D printer with 8 hot-swappable hot ends with different filaments
