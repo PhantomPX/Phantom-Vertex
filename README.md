@@ -7,9 +7,10 @@ The first step to any great machines is the electronic components in them. I'm v
 
 My first complete project will be a super silent mechanical keyboard [PhantomBoard](https://github.com/thephantom8768/PhantomBoard) powered by Vertex Mk4.4
 
-I plan on making:
+In the future, I plan on making:
 - 1m³ 3D printer with 8 hot-swappable hot ends with different filaments
-- 5-axis CNC machine, laser cutter/engraver
+- 5-axis CNC machine
+- laser cutter/engraver
 - 3D filament maker with + shredder for recycling and making my own filaments.
 
 So far Vertex Mk4.4 is my first and only dev board. More COMING SOON! (depends if i need different MCU for my other projects or not)
