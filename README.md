@@ -11,18 +11,18 @@ Journey of making my own dev board for everything!
 ### 3D View
   <tr>
     <td>
-      <img width="835" height="835" alt="vertex mk4 Top" src="https://github.com/user-attachments/assets/5873c6e7-b072-4218-b0f1-8f582e1aa2d5" />
+      <img width="400" height="400" alt="vertex mk4 Top" src="https://github.com/user-attachments/assets/5873c6e7-b072-4218-b0f1-8f582e1aa2d5" />
     </td>
     <td>
-      <img width="835" height="835" alt="vertex mk4 Bottom" src="https://github.com/user-attachments/assets/fe990d56-dd1e-4f6a-9cde-b3852152f1ca" />
+      <img width="400" height="400" alt="vertex mk4 Bottom" src="https://github.com/user-attachments/assets/d6adf69f-90a4-4bcd-9b90-619924622933" />
     </td>
   </tr>
   <tr>
     <td>
-      <img width="835" height="835" alt="vertex mk4 Side1" src="https://github.com/user-attachments/assets/5253ad4d-7326-42dc-ba68-c57039d120d9" />
+      <img width="400" height="400" alt="vertex mk4 Side1" src="https://github.com/user-attachments/assets/5253ad4d-7326-42dc-ba68-c57039d120d9" />
     </td>
     <td>
-      <img width="835" height="835" alt="vertex mk4 Side2" src="https://github.com/user-attachments/assets/2cc7762d-c7fb-4b68-9a1e-c95fe0628230" />
+      <img width="400" height="400" alt="vertex mk4 Side2" src="https://github.com/user-attachments/assets/2cc7762d-c7fb-4b68-9a1e-c95fe0628230" />
     </td>
   </tr>
 </table>
