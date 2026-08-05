@@ -56,3 +56,6 @@ So far Vertex Mk4.4 is my first and only dev board. More COMING SOON! (depends i
     </td>
   </tr>
 </table>
+
+## Check out my other stuff
+[HERE](https://github.com/PhantomPX/Phantom-Dev-Boards)
