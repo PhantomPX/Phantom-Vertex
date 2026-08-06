@@ -1,6 +1,13 @@
-# Phantom-Vertex
-Journey of making my own dev board for everything!
-
+<img width="1408" height="1244" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/daf4e7a2-2be4-4337-a21b-bb9197362932" /># Phantom-Vertex
+<table>
+  <tr>
+    <td>
+      <img width="1408" height="1244" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/fa9a7088-b1ef-48cd-a9cf-e71122870f7f" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Journey of making my own dev board for studying and general purpose!
 
 I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. 
 The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple. 
@@ -8,6 +15,10 @@ The first step to any great machines is the electronic components in them. I'm v
 My first complete project will be a super silent mechanical keyboard [PhantomBoard](https://github.com/thephantom8768/PhantomBoard) powered by Vertex Mk4.4. (still in progress)
 
 So far Vertex Mk4.4 is my first and only dev board. More COMING SOON! (depends if i need different MCU for my other projects or not)
+    </td>
+  </tr>
+</table>
+
 
 ## Vertex Mk4.4 PCB
 ### Schematic
