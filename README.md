@@ -1,23 +1,18 @@
 # Phantom-Vertex
+
 <table>
   <tr>
-    <td>
+    <td width="30%">
       <img width="352" height="311" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/daf4e7a2-2be4-4337-a21b-bb9197362932">
     </td>
-  </tr>
-  <tr>
-    <td>
-      Journey of making my own dev board for studying and general purpose!
-
-I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. 
-The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple. 
-
-My first complete project will be a super silent mechanical keyboard [PhantomBoard](https://github.com/thephantom8768/PhantomBoard) powered by Vertex Mk4.4. (still in progress)
-
-So far Vertex Mk4.4 is my first and only dev board. More COMING SOON! (depends if i need different MCU for my other projects or not)
+    <td width="70%" valign="top">
+      <h3>Your Section Title</h3>
+      <p>This text stays perfectly contained within the right column.</p>
+      <p>Even if you write a long description, it will never slide underneath the image.</p>
     </td>
   </tr>
 </table>
+
 
 
 ## Vertex Mk4.4 PCB
