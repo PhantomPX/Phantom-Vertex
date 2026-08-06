@@ -39,7 +39,7 @@
      <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/89c87054-2a60-4ec8-9514-4bb022bf83f0" />
     </td>
     <td>
-      <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/36ed2dea-3b3c-4093-b6bd-65aea531257a" />
+      <img width="223" height="365" alt="Screenshot 2026-08-07 021950" src="https://github.com/user-attachments/assets/f7ce62b7-7a9d-4492-aefd-d4d19efbb56c" />
     </td>
   </tr>
 </table>
