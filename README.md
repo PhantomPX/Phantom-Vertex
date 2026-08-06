@@ -2,11 +2,11 @@
 
 <table>
   <tr>
-    <td width="60%">
-      <img width="60%" height="60%" alt="Vertex Mk4 4 Crop" src="https://github.com/user-attachments/assets/10e19070-810b-4c7e-ac23-4946c2706bbe" />
+    <td width="35%" valign="top">
+      <img width="100%" alt="Vertex Mk4 4 Crop" src="https://github.com/user-attachments/assets/10e19070-810b-4c7e-ac23-4946c2706bbe" style="display: block; max-width: 100%;" />
     </td>
-    <td width="40%" valign="top">
-      <h3>Your Section Title</h3>
+    <td width="65%" valign="top">
+      <h3>Vertex Mk4.4 Dev Board</h3>
       <p>Journey of making my own dev board for studying and general purpose!</p>
       <p>I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. 
 The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple. </p>
