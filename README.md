@@ -20,7 +20,8 @@
 
 ## Vertex Mk4.4 PCB
 ### Schematic
-<img width="1319" height="777" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/6c69ddb6-c648-432d-b0fb-0f07149dd632" />
+<img width="599" height="355" alt="image" src="https://github.com/user-attachments/assets/70082e3b-9dc0-4583-abf3-25cf6856b3c8" />
+
 
 
 
