@@ -7,12 +7,14 @@
     </td>
     <td width="70%" valign="top">
       <h3>Your Section Title</h3>
-      <p>This text stays perfectly contained within the right column.</p>
-      <p>Even if you write a long description, it will never slide underneath the image.</p>
+      <p>Journey of making my own dev board for studying and general purpose!</p>
+      <p>I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. 
+The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple. </p>
+      <p> My first complete project will be a super silent mechanical keyboard [PhantomBoard](https://github.com/thephantom8768/PhantomBoard) powered by Vertex Mk4.4. (still in progress)</p>
+      <p>So far Vertex Mk4.4 is my first and only dev board. More COMING SOON! (depends if i need different MCU for my other projects or not)</p>
     </td>
   </tr>
 </table>
-
 
 
 ## Vertex Mk4.4 PCB
