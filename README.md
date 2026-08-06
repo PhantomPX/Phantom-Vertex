@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img width="1408" height="1244" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/daf4e7a2-2be4-4337-a21b-bb9197362932" />
+      <img width="1408" height="1244" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/daf4e7a2-2be4-4337-a21b-bb9197362932">
     </td>
   </tr>
   <tr>
