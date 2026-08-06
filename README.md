@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td width="30%" valign="top">
+    <td width="60%" valign="top">
       <img width="1270" height="1122" alt="PhantomPX Vertex Mk4 4 Pins" src="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a" />
     </td>
-    <td width="70%" valign="top">
+    <td width="40%" valign="top">
       <h3>Vertex Mk4.4 Dev Board</h3>
       <p>Journey of making my own dev board for studying and general purpose!</p>
       <p>I got interested in making my own electronics stuff. I'm on a quest to fill my room with cool and useful engineering machines. The first step to any great machine is the electronic components inside it. I'm very new to this, so I'm starting off simple.</p>
