@@ -2,8 +2,14 @@
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-      <img width="1270" height="1122" alt="PhantomPX Vertex Mk4 4 Pins" src="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a" />
+    <td width="60%" valign="top" align="center">
+      <a href="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a">
+        <img
+          src="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a"
+          width="100%"
+          alt="PhantomPX Vertex Mk4.4 Pins"
+        />
+      </a>
     </td>
     <td width="40%" valign="top">
       <h3>Vertex Mk4.4 Dev Board</h3>
