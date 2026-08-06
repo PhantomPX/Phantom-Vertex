@@ -1,25 +1,21 @@
 # Phantom-Vertex
 
-<table>
-  <tr>
-    <td width="60%" valign="top" align="center">
-      <a href="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a">
-        <img
-          src="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a"
-          width="100%"
-          alt="PhantomPX Vertex Mk4.4 Pins"
-        />
-      </a>
-    </td>
-    <td width="40%" valign="top">
-      <h3>Vertex Mk4.4 Dev Board</h3>
+<h2>Vertex Mk4.4 Dev Board</h2>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a">
+    <img
+      src="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a"
+      alt="PhantomPX Vertex Mk4.4 Pins"
+      width="700"
+    />
+  </a>
+</p>
       <p>Journey of making my own dev board for studying and general purpose!</p>
       <p>I got interested in making my own electronics stuff. I'm on a quest to fill my room with cool and useful engineering machines. The first step to any great machine is the electronic components inside it. I'm very new to this, so I'm starting off simple.</p>
       <p>My first complete project will be a super silent mechanical keyboard <a href="https://github.com">PhantomBoard</a> powered by Vertex Mk4.4. (Still in progress.)</p>
       <p>So far, Vertex Mk4.4 is my first and only dev board. More coming soon! (Depends on whether I need different MCUs for future projects.)</p>
-    </td>
-  </tr>
-</table>
+
 
 
 ## Vertex Mk4.4 PCB
