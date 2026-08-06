@@ -3,14 +3,14 @@
 <table>
   <tr>
     <td width="30%" valign="top">
-      <img src="PhantomPX_Vertex_mk4.4_Pins.PNG" width="100%" alt="Vertex Mk4.4" />
+      <img src="./PhantomPX_Vertex_Mk4.4_Pins.png" width="100%" alt="Vertex Mk4.4">
     </td>
     <td width="70%" valign="top">
       <h3>Vertex Mk4.4 Dev Board</h3>
       <p>Journey of making my own dev board for studying and general purpose!</p>
-      <p>I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple.</p>
-      <p>My first complete project will be a super silent mechanical keyboard <a href="https://github.com">PhantomBoard</a> powered by Vertex Mk4.4. (still in progress)</p>
-      <p>So far Vertex Mk4.4 is my first and only dev board. More COMING SOON! (depends if i need different MCU for my other projects or not)</p>
+      <p>I got interested in making my own electronics stuff. I'm on a quest to fill my room with cool and useful engineering machines. The first step to any great machine is the electronic components inside it. I'm very new to this, so I'm starting off simple.</p>
+      <p>My first complete project will be a super silent mechanical keyboard <a href="https://github.com">PhantomBoard</a> powered by Vertex Mk4.4. (Still in progress.)</p>
+      <p>So far, Vertex Mk4.4 is my first and only dev board. More coming soon! (Depends on whether I need different MCUs for future projects.)</p>
     </td>
   </tr>
 </table>
