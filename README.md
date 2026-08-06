@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td width="35%" valign="top" style="min-width: 100px;">
-      <img src="PhantomPX_Vertex_mk4.4.PNG" width="100%" alt="Vertex Mk4 4 Crop" style="display: block; max-width: 100%; height: auto;" />
+    <td width="30%" valign="top">
+      <img src="PhantomPX_Vertex_mk4.4.PNG" width="100%" alt="Vertex Mk4 4 Crop" />
     </td>
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
       <h3>Vertex Mk4.4 Dev Board</h3>
       <p>Journey of making my own dev board for studying and general purpose!</p>
       <p>I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. The first step to any great machines is the electronic components in them. I'm very new to these stuff so I'm starting off simple.</p>
