@@ -50,18 +50,18 @@
 <table>
   <tr>
     <td>
-      <img width="400" height="400" alt="vertex mk4 Top" src="https://github.com/user-attachments/assets/a0231dc4-06a7-46a1-b321-012c77a14cf9" />
+      <img width="400" height="400" alt="vertex mk4 Top" src="https://github.com/user-attachments/assets/ee6b7511-3072-43ea-a687-0719a4e3fd2a" />
     </td>
     <td>
-      <img width="400" height="400" alt="vertex mk4 Bottom" src="https://github.com/user-attachments/assets/8008c50f-5cd4-407e-b70a-bde7259b6440" />
+      <img width="400" height="400" alt="vertex mk4 Bottom" src="https://github.com/user-attachments/assets/ee41a024-3188-416b-99f3-673b66a65500" />
     </td>
   </tr>
   <tr>
     <td>
-      <img width="400" height="400" alt="vertex mk4 Side1" src="https://github.com/user-attachments/assets/104d0eca-d7fa-47ed-b248-380d7f9270f2" />
+      <img width="400" height="400" alt="vertex mk4 Side3" src="https://github.com/user-attachments/assets/e53d7afb-ec61-4b05-bfc2-92e3fa88290a" />
     </td>
     <td>
-      <img width="400" height="400" alt="vertex mk4 Side2" src="https://github.com/user-attachments/assets/5ece6a30-f0e0-4aea-820e-813afcedde13" />
+      <img width="400" height="400" alt="vertex mk4 Side4" src="https://github.com/user-attachments/assets/6d8a47f2-9354-47ac-a17b-55f2d285b97d" />
     </td>
   </tr>
 </table>
