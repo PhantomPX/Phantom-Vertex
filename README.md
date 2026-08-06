@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="30%" valign="top">
-      <img src="./PhantomPX_Vertex_Mk4.4_Pins.png" width="100%" alt="Vertex Mk4.4">
+      <img width="1270" height="1122" alt="PhantomPX Vertex Mk4 4 Pins" src="https://github.com/user-attachments/assets/54ca32f1-3a24-44c7-9a8a-99f23128513a" />
     </td>
     <td width="70%" valign="top">
       <h3>Vertex Mk4.4 Dev Board</h3>
