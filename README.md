@@ -28,18 +28,18 @@
 <table>
   <tr>
     <td>
-      <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/d3f12745-1617-4e70-be6a-a49b72ef52e2" />
+      <img width="223" height="365" alt="vertex mk4 4 ftpt f" src="https://github.com/user-attachments/assets/b2fd1b0e-a7bb-4718-8832-8a79aa41cbac" />
     </td>
     <td>
-      <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/96e6d376-3b99-4959-9f53-9a34d89f26f9" />
+      <img width="223" height="365" alt="vertex mk4 4 ftpt b" src="https://github.com/user-attachments/assets/80290423-7b01-43dc-b905-6d0840373d49" />
     </td>
   </tr>
   <tr>
     <td>
-      <img width="223" height="365" alt="Vertex Mk4 4 Footprint F" src="https://github.com/user-attachments/assets/5fde90e6-7a53-4c5c-95e4-448530d50bdd" />
+     <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/89c87054-2a60-4ec8-9514-4bb022bf83f0" />
     </td>
     <td>
-      <img width="223" height="365" alt="Vertex Mk4 4 Footprint B" src="https://github.com/user-attachments/assets/fb63591e-f106-4dd7-a4cf-eb7f5d13af46" />
+      <img width="223" height="365" alt="image" src="https://github.com/user-attachments/assets/36ed2dea-3b3c-4093-b6bd-65aea531257a" />
     </td>
   </tr>
 </table>
