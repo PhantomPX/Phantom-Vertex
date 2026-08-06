@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="30%" valign="top">
-      <img src="PhantomPX_Vertex_mk4.4.PNG" width="100%" alt="Vertex Mk4 4 Crop" />
+      <img src="PhantomPX_Vertex_mk4.4_Pins.PNG" width="100%" alt="Vertex Mk4 4 Crop" />
     </td>
     <td width="70%" valign="top">
       <h3>Vertex Mk4.4 Dev Board</h3>
