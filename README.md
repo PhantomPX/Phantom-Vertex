@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="60%">
-      <img width="704" height="622" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/daf4e7a2-2be4-4337-a21b-bb9197362932">
+      <img width="1270" height="1122" alt="Vertex Mk4 4 Crop" src="https://github.com/user-attachments/assets/10e19070-810b-4c7e-ac23-4946c2706bbe" />
     </td>
     <td width="40%" valign="top">
       <h3>Your Section Title</h3>
