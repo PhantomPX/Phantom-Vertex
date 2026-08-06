@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td width="30%">
+    <td width="50%">
       <img width="704" height="622" alt="Vertex Mk4 4" src="https://github.com/user-attachments/assets/daf4e7a2-2be4-4337-a21b-bb9197362932">
     </td>
-    <td width="70%" valign="top">
+    <td width="50%" valign="top">
       <h3>Your Section Title</h3>
       <p>Journey of making my own dev board for studying and general purpose!</p>
       <p>I got interested in making my own electronics stuff, I'm on a quest to fill my room with cool and useful engineering machines. 
