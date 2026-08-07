@@ -14,9 +14,9 @@
       <p>Journey of making my own dev board for studying and general purpose!</p>
       <p>I got interested in making my own electronics stuff. I'm on a quest to fill my room with cool and useful engineering machines. The first step to any great machine is the electronic components inside it. I'm very new to this, so I'm starting off simple.</p>
       <p>My first complete project will be a super silent (I hope) mechanical keyboard <a href="https://github.com">PhantomBoard</a> powered by Vertex Mk4.4. (Still in progress.)</p>
-      <p> Powered by STM32F405RGT6 QF64 and the PCB dimensions are 24.2*40.6mm (width*height), roughly the size of an adult's thumb 👍</p>
+      <p> ⚡Powered by STM32F405RGT6 QF64 and the PCB dimensions are 24.2*40.6mm (width*height), roughly the size of an adult's thumb 👍</p>
       <p><strong><ins>🚨Note🚨:</ins></strong> I prefer assembling myself so all the PCBs I make <strong><ins>🔴REQUIRE YOU TO SOLDER COMPONENTS YOURSELF🔴</ins></strong>.</p>
-      <p>So far, Vertex Mk4.4 is my first and only dev board. More coming soon! (Depends on whether I need different MCUs for future projects.)</p>
+      <p>So far, Vertex Mk4.4 is my first and only dev board. More coming soon🙌! (Depends on whether I need different MCUs for future projects.)</p>
 
 ## Vertex Mk4.4 PCB
 ### Schematic
