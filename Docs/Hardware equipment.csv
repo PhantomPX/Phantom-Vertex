@@ -1,6 +1,8 @@
 Tools,Purpose,Qty.,Price(USD),Source
-Soldering station/Hot air work station/Hot plate,Solder SMD onto PCB,as needed,,-
-Solder/Solder paste,Connects SMD to PCB physically and electrically,as needed,,-
-Flux,Makes soldering waaaay easier,as needed,,-
-TC2030 connector,Debugging microcontroller if everything goes badly,1,20,
-Fume extractor,No YUMMY cancer thanks!,1,,
+Soldering station/Hot air work station/Hot plate,Solder SMD onto PCB,as needed,-,-
+Solder/Solder paste,Connects SMD to PCB physically and electrically,as needed,-,-
+Flux,Makes soldering waaaay easier,as needed,-,-
+Soldering iron tips,To solder diffrent components nicely,1,3.50,https://www.aliexpress.com/item/1005012511464287.html?spm=a2g0o.productlist.main.2.247a5b90ty6bGt&algo_pvid=896497aa-cf5c-48f2-b92e-9a5f0012e318&pdp_ext_f=%7B%22order%22%3A%2239%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012511464287%7C_p_origin_prod%3A
+TC2030 connector,Debugging microcontroller if everything goes badly,1,13.76,https://www.aliexpress.com/item/1005012623989528.html?spm=a2g0o.productlist.main.7.30341f63IVxGZD&algo_pvid=81808be4-7e6a-49cf-b91c-41642e37f8cd&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012623989528%7C_p_origin_prod%3A
+Fume extractor,No YUMMY cancer thanks!,i don't mind,-,-
+Magnifying glass station,Very smol SMD components used,1,4.16,https://www.aliexpress.com/item/1005012238185136.html?spm=a2g0o.productlist.main.4.121959ealLl0q6&algo_pvid=c6cbae22-23cd-45a2-a008-2955797449c4&pdp_ext_f=%7B%22order%22%3A%2219%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012238185136%7C_p_origin_prod%3A
