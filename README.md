@@ -15,7 +15,7 @@
       <p>I got interested in making my own electronics stuff. I'm on a quest to fill my room with cool and useful engineering machines. The first step to any great machine is the electronic components inside it. I'm very new to this, so I'm starting off simple.</p>
       <p>My first complete project will be a super silent (I hope) mechanical keyboard <a href="https://github.com">PhantomBoard</a> powered by Vertex Mk4.4. (Still in progress.)</p>
       <p>So far, Vertex Mk4.4 is my first and only dev board. More coming soon! (Depends on whether I need different MCUs for future projects.)</p>
-
+      <p>**Note:** I prefer assembling myself so all the pcb i make **REQUIRES SELF SOLDERING**</p>
 
 
 ## Vertex Mk4.4 PCB
