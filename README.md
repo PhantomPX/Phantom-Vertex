@@ -18,6 +18,9 @@
       <p><strong><ins>🚨Note🚨:</ins></strong> I prefer assembling myself so all the PCBs I make <strong><ins>🔴REQUIRE YOU TO SOLDER COMPONENTS YOURSELF🔴</ins></strong>.</p>
       <p>So far, Vertex Mk4.4 is my first and only dev board. More coming soon🙌! (Depends on whether I need different MCUs for future projects.)</p>
 
+## Capabilities
+
+
 ## Vertex Mk4.4 PCB
 ### Schematic
 <img width="1130" height="663" alt="Screenshot_7-8-2026_23911_" src="https://github.com/user-attachments/assets/4802f946-ac55-4b51-934c-954beac423d1" />
