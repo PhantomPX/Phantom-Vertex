@@ -18,7 +18,7 @@
       <p><strong><ins>🚨Note🚨:</ins></strong> I prefer assembling myself so all the PCBs I make <strong><ins>🔴REQUIRE YOU TO SOLDER COMPONENTS YOURSELF🔴</ins></strong>.</p>
       <p>So far, Vertex Mk4.4 is my first and only dev board. More coming soon🙌! (Depends on whether I need different MCUs for future projects.)</p>
 
-## Capabilities
+## Capabilities💪
 ### Microcontroller
 - **STM32F405RGT6** (ARM Cortex-M4, up to 168MHz, LQFP64)
 - USB Full-Speed 2.0 with onboard ESD protection
@@ -27,7 +27,7 @@
 ### Expansion
 - 3 independent I2C buses free for additional sensors/peripherals
 - Multiple free SPI and UART interfaces
-- Numerous spare GPIO/PWM-capable pins
+- Numerous spare GPIO/PWM-capable pins (refer schematic & stm32f405rgt6 datasheet)
 
 ## Vertex Mk4.4 PCB
 ### Schematic
