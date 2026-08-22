@@ -22,6 +22,7 @@
 ### Schematic
 <img width="1130" height="663" alt="Screenshot_7-8-2026_23911_" src="https://github.com/user-attachments/assets/4802f946-ac55-4b51-934c-954beac423d1" />
 
+##BOM
 | Item | Parts | Qty. | Price(USD) |
 | --- | --- | --- | --- |
 | Ceramic capacitor SMD | 33pF 0402 | 2 | 1.95 |
