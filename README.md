@@ -22,8 +22,27 @@
 ### Schematic
 <img width="1130" height="663" alt="Screenshot_7-8-2026_23911_" src="https://github.com/user-attachments/assets/4802f946-ac55-4b51-934c-954beac423d1" />
 
-
-
+| Item | Parts | Qty. | Price(USD) |
+| --- | --- | --- | --- |
+| Ceramic capacitor SMD | 33pF 0402 | 2 | 1.95 |
+| Ceramic capacitor SMD | 10nF 1206 | 1 | 3.14 |
+| Ceramic capacitor SMD | 100nF 0402 | 7 | 4.22 |
+| Ceramic capacitor SMD | 1uF 0603 | 1 | 2.42 |
+| Ceramic capacitor SMD | 2.2uF 0603 | 2 | 3.36 |
+| Ceramic capacitor SMD | 4.7uF 0402 | 1 | 4.71 |
+| Ceramic capacitor SMD | 10uF 0805 | 1 | 4.16 |
+| Ceramic capacitor SMD | 22uF 0805 | 1 | 4.94 |
+| Ferrite bead SMD | 50mΩ 120Ω@100MHz 2A 0603 | 1 | 1.16 |
+| USB C receptacle | GCT_USB4085 | 1 | 6.26 |
+| THT connector | 4(1x2)\|1(1x16)\|1(1x22)\|1(1x5) P1.00mm | - | 2.56 |
+| Ceramic resistor SMD | 5k1 0402 | 2 | 1.18 |
+| Ceramic resistor SMD | 10k 0402 | 2 | 1.14 |
+| Ceramic resistor SMD | 1M 0603 | 1 | 1.48 |
+| Push button SMD | SW_SPST_B3U-1000P | 2 | 1.46 |
+| Unidirectional ESD SMD | USBLC6-2SC6 | 1 | 3.13 |
+| Low-dropout linear voltage regulator SMD | AMS1117-3.3 | 1 | 0.68 |
+| MCU | STM32F405RGT6 | 1 | 3.15 |
+| Total | - | - | 51.31± |
 
 
 ### Footprint
