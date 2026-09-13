@@ -26,7 +26,7 @@
 - Reset and bootloader-entry buttons
 ### Expansion
 - 3 independent I2C buses free for additional sensors/peripherals
-- Multiple free SPI and 2 UART interfaces
+- 3 SPI and 2 UART interfaces 
 - Numerous spare GPIO/PWM-capable pins (refer schematic & stm32f405rgt6 datasheet)
 
 ## Vertex Mk4.4 PCB
