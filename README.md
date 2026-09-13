@@ -35,7 +35,7 @@
 
 ## BOM
 
-| Item | Parts | Qty. | Unit price(USD) | Price per lot(USD) | Source |
+| Item | Parts | Qty. | Unit price (USD) | Price per lot (USD) | Source |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Ceramic capacitor SMD | 33pF 0402 | 2 | 0.0195 | 1.95 | https://www.aliexpress.com/item/1005002960548572.html?spm=a2g0o.productlist.main.1.2724aRjtaRjtjg&algo_pvid=273f926f-5b51-4a0c-b6ff-941ef61254cd&pdp_ext_f=%7B%22order%22%3A%22144%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005002960548572%7C_p_origin_prod%3A |
 | Ceramic capacitor SMD | 10nF 1206 | 1 | 0.0314 | 3.14 | https://www.aliexpress.com/item/1005007176206143.html?spm=a2g0o.productlist.main.1.75244Dz04Dz0a2&algo_pvid=e20f9481-cc4c-46ed-a6e1-b2569239c797&pdp_ext_f=%7B%22order%22%3A%22357%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007176206143%7C_p_origin_prod%3A |
