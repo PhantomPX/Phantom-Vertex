@@ -25,7 +25,7 @@
 - SWD debug header (TC2030-SWD compatible) for programming/debugging
 - Reset and bootloader-entry buttons
 ### Expansion
-- 42 GPIO and 14 PWM-capable pins (refer schematic & stm32f405rgt6 datasheet)
+- 42 GPIO and 14 PWM-capable pins (refer to schematic below & STM32F405RGT6 datasheet)
 - 3 independent I2C buses free for additional sensors/peripherals
 - 3 SPI and 2 UART interfaces 
 
