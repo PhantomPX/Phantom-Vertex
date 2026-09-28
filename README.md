@@ -58,7 +58,7 @@
 | Crystal oscillator SMD | X322512MSB4SI | 1 | 0.21 | 0.21 | https://www.aliexpress.com/item/1005012668862128.html?spm=a2g0o.productlist.main.3.da16pbzFpbzFcs&algo_pvid=96cc8d8e-f6af-4891-bf81-69791a5fffa3&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012668862128%7C_p_origin_prod%3A |
 | Total+Shipping+Tax | - | - | - | 64.57± | - |
 
-### Footprint
+### Footprint & Traces
 <table>
   <tr>
     <td>
@@ -78,6 +78,8 @@
   </tr>
 </table>
 
+🔴Red = Top layer (1st)
+🔵Blue = Bottom layer (4th)
 
 
 ### 3D View
